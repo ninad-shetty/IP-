@@ -1,1 +1,1 @@
-A repository of all my Internet Programming Projects and assignments.
+E commerce wesite that enables tribal people to sell their products on the internet directly made with php, ajax, html, javascript, bootstrap, css, jquery.
