@@ -1,1 +1,1 @@
-A website for tribal people to sell their products directly to the customers using PHP, Javascript, Jquery, HtmL, CSS and mysql.
+E commerce wesite that enables tribal people to sell their products on the internet directly made with php, ajax, html, javascript, bootstrap, css, jquery.
